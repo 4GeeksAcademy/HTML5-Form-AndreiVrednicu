@@ -1,0 +1,26 @@
+/* div {
+    background-color: rgb(255, 241, 222); 
+} */
+
+
+
+#footer {
+    text-align: right;
+}
+
+
+div.textAboveCheckmarks{
+    padding-bottom: .6rem;
+}
+
+#cards {
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(235, 235, 235);
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 2px;
+    padding: 10px;
+}
+
+
+
